@@ -12,7 +12,8 @@
       "backgroundColor": "#1D1415"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.razaaa2gud.MomsConnectApp"
     },
     "android": {
       "adaptiveIcon": {
